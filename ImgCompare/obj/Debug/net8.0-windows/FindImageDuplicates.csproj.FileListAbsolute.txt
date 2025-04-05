@@ -1,0 +1,11 @@
+C:\Users\JSB_I\source\repos\ImgCompare\FindImageDuplicates\obj\Debug\net8.0-windows\FindImageDuplicates.csproj.AssemblyReference.cache
+C:\Users\JSB_I\source\repos\ImgCompare\FindImageDuplicates\obj\Debug\net8.0-windows\ImgCompare.Form1.resources
+C:\Users\JSB_I\source\repos\ImgCompare\FindImageDuplicates\obj\Debug\net8.0-windows\ImgCompare.Form2.resources
+C:\Users\JSB_I\source\repos\ImgCompare\FindImageDuplicates\obj\Debug\net8.0-windows\ImgCompare.Form3.resources
+C:\Users\JSB_I\source\repos\ImgCompare\FindImageDuplicates\obj\Debug\net8.0-windows\FindImageDuplicates.csproj.GenerateResource.cache
+C:\Users\JSB_I\source\repos\ImgCompare\FindImageDuplicates\obj\Debug\net8.0-windows\FindImageDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JSB_I\source\repos\ImgCompare\FindImageDuplicates\obj\Debug\net8.0-windows\FindImageDuplicates.AssemblyInfoInputs.cache
+C:\Users\JSB_I\source\repos\ImgCompare\FindImageDuplicates\obj\Debug\net8.0-windows\FindImageDuplicates.AssemblyInfo.cs
+C:\Users\JSB_I\source\repos\ImgCompare\FindImageDuplicates\obj\Debug\net8.0-windows\FindImageDuplicates.csproj.CoreCompileInputs.cache
+C:\Users\JSB_I\source\repos\ImgCompare\FindImageDuplicates\obj\Debug\net8.0-windows\FindImageDuplicates.Form1.resources
+C:\Users\JSB_I\source\repos\ImgCompare\FindImageDuplicates\obj\Debug\net8.0-windows\FindImageDuplicates.Form2.resources
